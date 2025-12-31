@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Smart Meal Planner AI**
 
-- 👨‍💻 All of my projects are available at [https://tanaysportfolio.lovable.app/](https://tanaysportfolio.lovable.app/)
+- 👨‍💻 All of my projects are available at [https://tanaysportfolio.lovable.app/](https://tanays-portfolio.vercel.app/)
 
 - 💬 Ask me about **React, Vue, GSAP, Blockchain basics**
 
